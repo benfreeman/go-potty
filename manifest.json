@@ -1,0 +1,11 @@
+{
+    "name": "Go Potty!",
+    "description": "Reminder to take your friggin dog out to go potty",
+    "version": "1",
+    "background_page": "",
+    "browser_action": {},
+    "content_scripts": [
+        {}
+    ],
+    "permissions": []
+}
